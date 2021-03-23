@@ -1,6 +1,6 @@
 # Soldering station pcb for T12 iron  
-### Designed to be used with Alexander's firmware  
-### Original project can be found here
+### Designed to be used with [Alexander's](https://www.hackster.io/sfrwmaker) firmware  
+### Original project can be found [here](https://www.hackster.io/sfrwmaker/soldering-iron-controller-for-hakko-t12-tips-on-stm32-c50ccc)
 ___
 ### Here are some notes to help you build the pcb
 
