@@ -1,8 +1,8 @@
-#Soldering station pcb for T12 iron  
-###Designed to be used with Alexander's firmware  
-###Original project can be found here
+# Soldering station pcb for T12 iron  
+### Designed to be used with Alexander's firmware  
+### Original project can be found here
 ___
-###Here are some notes to help you build the pcb
+### Here are some notes to help you build the pcb
 
 * The pcb was designed to use a MP1584 step-down converter. I suggest you to use a pre-made MP1584 module and solder it on IN+,IN-,OUT+ through holes. If you solder a pre-made pcb do not solder anything on this area (It's actually the same circuit with the MP1584 module).  
 ![](https://files.hackermagnet.com/T12-voltage-adjust-components.png)  
@@ -23,6 +23,6 @@ If for some reason you need to adjust the voltage later you must cut the 3.3V tr
 * Build the firmware according to Alexander's instructions but keep in mind that you should invert the logic of the buzzer and the encoder (there are instructions in the comments).  
 
 ___
-###Complete interactive [BOM](http://files.hackermagnet.com/T12-ibom.html) and [Schematic](http://files.hackermagnet.com/T12-schematic.pdf)
+### Complete interactive [BOM](http://files.hackermagnet.com/T12-ibom.html) and [Schematic](http://files.hackermagnet.com/T12-schematic.pdf)
 ___
-###[Download gerbers files](https://hackermagnet.com/download-t12-soldering-station-gerber-files/)
+### [Download gerbers files](https://hackermagnet.com/download-t12-soldering-station-gerber-files/)
